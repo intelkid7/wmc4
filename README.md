@@ -1,2 +1,1 @@
-This is Priyansh
-I am a frontend developer
+I make great designs
